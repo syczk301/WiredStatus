@@ -1,0 +1,9 @@
+{
+  "app": "WiredStatus",
+  "account": "syczk301.WiredStatus",
+  "publicKey": "t4BWq6LAFgx1eLFlh0MIp7iz55JnT6DXP/kGOJ4LTNg=",
+  "feedURL": "https://github.com/syczk301/WiredStatus/releases/download/sparkle/appcast.xml",
+  "downloadURLPrefix": "https://github.com/syczk301/WiredStatus/releases/download/sparkle/",
+  "version": "1.2.0",
+  "bundle": "build/Wired Status.app"
+}
